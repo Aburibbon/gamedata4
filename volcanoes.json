@@ -1,6 +1,7 @@
 {
     "version": {
-        "1.0.0"
+        "str": "1.0.0",
+        "date": "?"
     },
     "volcanoes": [
         {
