@@ -1,5 +1,26 @@
 {
-  "cities": [
-    
-  ]
+    "version": {
+        "str": "1.0.0",
+        "date": "?"
+    },
+    "cities": [
+        {
+            "name": "Chicago",
+            "location": {
+                "latitude": 41.8781,
+                "longitude": -87.6298,
+                "altitude": 597
+            }
+            "population": 2716000
+        },
+        {
+            "name": "Los Angeles",
+            "location": {
+                "latitude": 34.0522,
+                "longitude": -118.2437,
+                "altitude": 305
+            }
+            "population": 2716000
+        }
+    ]
 }
