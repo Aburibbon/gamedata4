@@ -158,6 +158,62 @@
             "type": "Complex",
             "overMax": 6,
             "primaryEruptiveType": "Explosive"
+        },{
+            "name": "Hunga Tonga-Hunga Ha'apai",
+            "vei": 5,
+            "coordinates": [-20.543793482550136, -175.3900184272177],
+            "type": "Caldera",
+            "overMax": 6,
+            "primaryEruptiveType": "Explosive"
+        },{
+            "name": "Tofua",
+            "vei": 5,
+            "coordinates": [-19.747306784164536, -175.06815435721626],
+            "type": "Caldera",
+            "overMax": 5,
+            "primaryEruptiveType": "Effusive"
+        },{
+            "name": "Manengouba",
+            "vei": 4,
+            "coordinates": [5.033897640271529, 9.826201299337516],
+            "type": "Complex",
+            "overMax": 5,
+            "primaryEruptiveType": "Explosive"
+        },{
+            "name": "Tenerife",
+            "vei": 7,
+            "coordinates": [28.263023594717712, -16.6184496323989],
+            "type": "Complex",
+            "overMax": 7,
+            "primaryEruptiveType": "Effusive"
+        },{
+            "name": "Atitlán",
+            "vei": 8,
+            "coordinates": [14.687558454323359, -91.20007832784108],
+            "type": "Complex",
+            "overMax": 8,
+            "primaryEruptiveType": "Explosive"
+        },{
+            "name": "Long Valley",
+            "vei": 8,
+            "coordinates": [37.67218769286231, -118.74369917273168],
+            "type": "Caldera",
+            "overMax": 8,
+            "primaryEruptiveType": "Explosive"
+        },{
+            "name": "Ruang",
+            "vei": 4,
+            "coordinates": [2.303937784374393, 125.36655527713849],
+            "type": "Stratovolcano",
+            "overMax": 5,
+            "primaryEruptiveType": "Effusive"
+        },{
+            "name": "Taal",
+            "vei": 7,
+            "coordinates": [14.010609158550203, 120.9984228353989],
+            "type": "Stratovolcano",
+            "overMax": 7,
+            "primaryEruptiveType": "Effusive"
         }
     ]
 }
