@@ -123,6 +123,41 @@
             "type": "Caldera",
             "overMax": 7,
             "primaryEruptiveType": "Explosive"
+        },{
+            "name": "Mount Kilimanjaro",
+            "vei": 4,
+            "coordinates": [-3.0645111738071487, 37.35839785400989],
+            "type": "Stratovolcano",
+            "overMax": 4,
+            "primaryEruptiveType": "Effusive"
+        },{
+            "name": "Morne Diablotins",
+            "vei": 6,
+            "coordinates": [15.502591268592697, -61.396412279344524],
+            "type": "Stratovolcano",
+            "overMax": 6,
+            "primaryEruptiveType": "Explosive"
+        },{
+            "name": "Pelée",
+            "vei": 4,
+            "coordinates": [14.81044577827865, -61.16661449104828],
+            "type": "Stratovolcano",
+            "overMax": 5,
+            "primaryEruptiveType": "Explosive"
+        },{
+            "name": "Stiavnica",
+            "vei": 7,
+            "coordinates": [48.442534381263656, 18.906975611084583],
+            "type": "Caldera",
+            "overMax": 7,
+            "primaryEruptiveType": "Explosive"
+        },{
+            "name": "East Eifel Volcanic Field",
+            "vei": 6,
+            "coordinates": [50.257536549405664, 6.678420080968171],
+            "type": "Complex",
+            "overMax": 6,
+            "primaryEruptiveType": "Explosive"
         }
     ]
 }
