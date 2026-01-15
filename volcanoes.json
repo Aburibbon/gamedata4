@@ -204,14 +204,14 @@
             "name": "Ruang",
             "vei": 4,
             "coordinates": [2.303937784374393, 125.36655527713849],
-            "type": "Stratovolcano",
+            "type": "Complex",
             "overMax": 5,
             "primaryEruptiveType": "Effusive"
         },{
             "name": "Taal",
             "vei": 7,
             "coordinates": [14.010609158550203, 120.9984228353989],
-            "type": "Stratovolcano",
+            "type": "Caldera",
             "overMax": 7,
             "primaryEruptiveType": "Effusive"
         }
