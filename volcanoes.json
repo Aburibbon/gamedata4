@@ -17,72 +17,64 @@
             "vei": 0,
             "coordinates": [44.0832499246262, -121.6996182636665],
             "type": "Stratovolcano",
-            "summitFeet": 9177,
-            "magmaType": "Basalt",
-            "desc": "Broken Top is a stratovolcano in the USA. In total, throughout its 150,000 years of eruptive activity, Broken Top erupted between 1.7 to 2.4 cubic miles (7 to 10 km3) of lava."
+            "overMax": 0,
+            "primaryEruptiveType": "Explosive"
         },
         {
             "name": "Kick 'em Jenny",
             "vei": 1,
             "coordinates": [12.299992283130464, -61.6400094655348],
-            "type": "Complex",
-            "summitFeet": -607,
-            "magmaType": "Basalt",
-            "desc": "Kick 'em Jenny is a complex submarine volcano in the Caribbean. The name itself may be a reference to the waters sometimes being extremely rough. "
+            "type": "Seamount",
+            "overMax": 1,
+            "primaryEruptiveType": "Explosive"
         },
         {
             "name": "Mauna Loa",
             "vei": 2,
             "coordinates": [19.472212232405933, -155.5921872240247],
             "type": "Shield",
-            "summitFeet": 13681,
-            "magmaType": "Basalt",
-            "desc": "A very active shield volcano in Hawaii. Similar to Kilauea, eruptions are frequent and mainly effusive. If we measure height from the sea floor, it would be taller than Everest by 1000 feet, just behind Mauna Kea at 4500 feet taller than Everest."
+            "overMax": 2,
+            "primaryEruptiveType": "Effusive"
         },
         {
             "name": "Stromboli",
             "vei": 3,
             "coordinates": [38.79215093655288, 15.212579655703337],
             "type": "Stratovolcano",
-            "summitFeet": 3031,
-            "magmaType": "Basalt",
-            "desc": "Stromboli is a stratovolcano in Italy. Mount Stromboli has been in almost continuous eruption for the past 2,000–5,000 years; its last serious one occurred in 1921."
+            "overMax": 3,
+            "primaryEruptiveType": "Explosive"
         },
         {
             "name": "Kīlauea",
             "vei": 4,
             "coordinates": [19.406920810396706, -155.283369002341],
             "type": "Shield",
-            "summitFeet": 4009,
-            "magmaType": "Basalt",
-            "desc": "A very active shield volcano in Hawaii that erupts very frequently with mostly effusive eruptions, but has on occasion produced much larger eruptions going as high as VEI 4."
+            "overMax": 4,
+            "primaryEruptiveType": "Effusive"
         },
         {
             "name": "Tongariro",
             "vei": 5,
             "coordinates": [-39.13064101262619, 175.6361138900971],
-            "type": "Complex",
-            "summitFeet": 1978,
-            "magmaType": "Andesite",
-            "desc": "Tongariro is a complex volcano in New Zealand. Mount Tongariro is in the Tongariro National Park, New Zealand's first national park and one of the earliest in the world." 
+            "type": "Stratovolcano",
+            "overMax": 5,
+            "primaryEruptiveType": "Explosive"
         },
         {
             "name": "Campi Flegrei",
             "vei": 7,
             "coordinates": [40.82719571514453, 14.139105835113167],
             "type": "Caldera",
-            "summitFeet": 12631,
-            "magmaType": "Rhyolite",
-            "desc": "A rather small looking caldera in Italy near Vesuvius, that sits right in the middle of Naples. This volcano is an extremely high threat due to it being directly in the middle of a major city, which a likely chance of an eruption in the future, and is considered a supervolcano, meaning there is a chance for a super eruption to occur right in the middle of a major city."
+            "overMax": 7,
+            "primaryEruptiveType": "Explosive"
         },
         {
             "name": "Yellowstone",
             "vei": 8,
             "coordinates": [44.36880150435362, -110.72187055142369],
             "type": "Caldera",
-            "summitFeet": 9202,
-            "magmaType": "Rhyolite",
-            "desc": "A supervolcano in Wyoming that is very well known for its 3 super eruptions in the last 2.1 million years and Old Faithful geyser. Old Faithful erupts on a daily basis and is often very predictable of its next eruptions."
+            "overMax": 8,
+            "primaryEruptiveType": "Explosive"
         },
         {
             "name": "Mount Shasta",
