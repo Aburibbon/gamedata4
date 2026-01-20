@@ -379,6 +379,111 @@
             "type": "Stratovolcano",
             "overMax": 5,
             "primaryEruptiveType": "Explosive"
+        },{
+            "name": "Cheb Basin",
+            "vei": 4,
+            "coordinates": [50.00141502940412, 12.41935964787136],
+            "type": "Volcanic Field",
+            "overMax": 4,
+            "primaryEruptiveType": "Effusive"
+        },{
+            "name": "Adams Seamount",
+            "vei": 0,
+            "coordinates": [-25.367337541426426, -129.26484353208787],
+            "type": "Seamount",
+            "overMax": 1,
+            "primaryEruptiveType": "Effusive"
+        },{
+            "name": "Grímsvötn",
+            "vei": 6,
+            "coordinates": [64.41130059843258, -17.348897657547454],
+            "type": "Caldera",
+            "overMax": 6,
+            "primaryEruptiveType": "Effusive"
+        },{
+            "name": "Reykjanes",
+            "vei": 4,
+            "coordinates": [63.81658477515657, -22.716257784770598],
+            "type": "Volcanic Field",
+            "overMax": 4,
+            "primaryEruptiveType": "Effusive"
+        },{
+            "name": "Mendeleyeva",
+            "vei": 6,
+            "coordinates": [43.97944836355528, 145.7326933786333],
+            "type": "Stratovolcano",
+            "overMax": 6,
+            "primaryEruptiveType": "Effusive"
+        },{
+            "name": "Chirinkotan",
+            "vei": 2,
+            "coordinates": [48.98023472232572, 153.48642701288995],
+            "type": "Stratovolcano",
+            "overMax": 2,
+            "primaryEruptiveType": "Effusive"
+        },{
+            "name": "Kita-Ioto",
+            "vei": 2,
+            "coordinates": [25.434202784274653, 141.28256320462435],
+            "type": "Stratovolcano",
+            "overMax": 2,
+            "primaryEruptiveType": "Effusive"
+        },{
+            "name": "Komarov",
+            "vei": 0,
+            "coordinates": [55.032436172193904, 160.72675963838097],
+            "type": "Complex",
+            "overMax": 0,
+            "primaryEruptiveType": "Effusive"
+        },{
+            "name": "Klabat",
+            "vei": 1,
+            "coordinates": [1.4541812013731474, 125.03008253151728],
+            "type": "Stratovolcano",
+            "overMax": 1,
+            "primaryEruptiveType": "Effusive"
+        },{
+            "name": "Fonuafo'ou",
+            "vei": 3,
+            "coordinates": [-20.316553430395373, -175.41053918332267],
+            "type": "Stratovolcano",
+            "overMax": 3,
+            "primaryEruptiveType": "Effusive"
+        },{
+            "name": "Oden",
+            "vei": 0,
+            "coordinates": [85.607969, 85.250017],
+            "type": "Submarine",
+            "overMax": 0,
+            "primaryEruptiveType": "Effusive"
+        },{
+            "name": "Black Butte Crater Lava Field",
+            "vei": 0,
+            "coordinates": [43.1844778434155, -114.35246393928385],
+            "type": "Shield",
+            "overMax": 0,
+            "primaryEruptiveType": "Effusive"
+        },{
+            "name": "Kasuga 1",
+            "vei": 0,
+            "coordinates": [21.77382747632848, 143.70663523688347],
+            "type": "Seamount",
+            "overMax": 0,
+            "primaryEruptiveType": ""
+        },{
+            "name": "Cantal",
+            "vei": 3,
+            "coordinates": [45.07415805822629, 2.691426712357053],
+            "type": "Stratovolcano",
+            "overMax": 4,
+            "primaryEruptiveType": "Effusive"
+        },{
+            "name": "Campi Flegrei del Mar di Sicilia",
+            "vei": 3,
+            "coordinates": [37.09956195317853, 12.699478976736982],
+            "type": "Stratovolcano",
+            "overMax": 3,
+            "primaryEruptiveType": "Effusive"
         }
     ]
 }
