@@ -729,6 +729,146 @@
             "type": "Caldera",
             "overMax": 7,
             "primaryEruptiveType": "Explosive"
+        },{
+            "name": "North Vate",
+            "vei": 7,
+            "coordinates": [-17.50987699748425, 168.36363775534275],
+            "type": "Caldera",
+            "overMax": 7,
+            "primaryEruptiveType": "Effusive"
+        },{
+            "name": "Ambrym",
+            "vei": 6,
+            "coordinates": [-16.24955120332632, 168.12862750947002],
+            "type": "Shield",
+            "overMax": 6,
+            "primaryEruptiveType": "Effusive"
+        },{
+            "name": "Lake Turkana South Island",
+            "vei": 1,
+            "coordinates": [2.6330145945123453, 36.59715287796779],
+            "type": "Shield",
+            "overMax": 1,
+            "primaryEruptiveType": "Effusive"
+        },{
+            "name": "Boomerang Seamount",
+            "vei": 0,
+            "coordinates": [-37.722451660815516, 77.82128639829847],
+            "type": "Seamount",
+            "overMax": 0,
+            "primaryEruptiveType": "Effusive"
+        },{
+            "name": "Fourpeaked",
+            "vei": 2,
+            "coordinates": [58.77564087922503, -153.6456014726466],
+            "type": "Stratovolcano",
+            "overMax": 2,
+            "primaryEruptiveType": "Effusive"
+        },{
+            "name": "Iliamna",
+            "vei": 4,
+            "coordinates": [60.032541150352124, -153.08810589785097],
+            "type": "Stratovolcano",
+            "overMax": 4,
+            "primaryEruptiveType": "Explosive"
+        },{
+            "name": "Kanaga",
+            "vei": 2,
+            "coordinates": [51.92354637789967, -177.1632452941201],
+            "type": "Stratovolcano",
+            "overMax": 2,
+            "primaryEruptiveType": "Effusive"
+        },{
+            "name": "Kanlaon",
+            "vei": 3,
+            "coordinates": [10.411232658373713, 123.13227639606902],
+            "type": "Stratovolcano",
+            "overMax": 3,
+            "primaryEruptiveType": "Effusive"
+        },{
+            "name": "Lake Turkana Central Island",
+            "vei": 0,
+            "coordinates": [3.499987039385443, 36.03649316789501],
+            "type": "Tuff Cone",
+            "overMax": 1,
+            "primaryEruptiveType": "Effusive"
+        },{
+            "name": "Monaco Bank",
+            "vei": 1,
+            "coordinates": [37.599159395424046, -25.886837022990694],
+            "type": "Seamount",
+            "overMax": 1,
+            "primaryEruptiveType": "Effusive"
+        },{
+            "name": "Pagan",
+            "vei": 4,
+            "coordinates": [18.141093689714886, 145.78598336445796],
+            "type": "Stratovolcano",
+            "overMax": 4,
+            "primaryEruptiveType": "Effusive"
+        },{
+            "name": "Pico Fracture Zone",
+            "vei": 0,
+            "coordinates": [38.692760090196344, -38.487882110689974],
+            "type": "Seamount",
+            "overMax": 0,
+            "primaryEruptiveType": "Effusive"
+        },{
+            "name": "Protector Seamounts",
+            "vei": 1,
+            "coordinates": [-55.943459795357164, -28.149170441457752],
+            "type": "Seamount",
+            "overMax": 1,
+            "primaryEruptiveType": "Effusive"
+        },{
+            "name": "Vsevidof",
+            "vei": 3,
+            "coordinates": [53.12612589680645, -168.68738351523217],
+            "type": "Stratovolcano",
+            "overMax": 3,
+            "primaryEruptiveType": "Effusive"
+        },{
+            "name": "Wapi Lava Field",
+            "vei": 2,
+            "coordinates": [42.88530060831693, -113.21605508500056],
+            "type": "Shield",
+            "overMax": 2,`
+            "primaryEruptiveType": "Effusive"
+        },{
+            "name": "Jabal Yar",
+            "vei": 2,
+            "coordinates": [17.193371755653146, 42.74157097895395],
+            "type": "Volcanic Field",
+            "overMax": 2,
+            "primaryEruptiveType": "Effusive"
+        },{
+            "name": "Traitor's Head",
+            "vei": 0,
+            "coordinates": [-18.755042924373633, 169.24017015326837],
+            "type": "Composite",
+            "overMax": 0,
+            "primaryEruptiveType": "Effusive"
+        },{
+            "name": "Tinakula",
+            "vei": 3,
+            "coordinates": [-10.385801732433134, 165.8028091036838],
+            "type": "Stratovolcano",
+            "overMax": 3,
+            "primaryEruptiveType": "Effusive"
+        },{
+            "name": "Cleft Segment",
+            "vei": 0,
+            "coordinates": [44.83007245588162, -130.2999191679957],
+            "type": "Submarine",
+            "overMax": 0,
+            "primaryEruptiveType": "Effusive"
+        },{
+            "name": "Buzzard Creek",
+            "vei": 2,
+            "coordinates": [64.06154316644702, -148.4333703030437],
+            "type": "Complex",
+            "overMax": 2,
+            "primaryEruptiveType": "Explosive"
         }
     ]
 }
