@@ -294,11 +294,11 @@
         },
         {
             "name": "Karymsky",
-            "vei": ,
-            "coordinates": [],
+            "vei": 6,
+            "coordinates": [54.049982426631104, 159.4333377710081],
             "type": "Stratovolcano",
-            "overMax": ,
-            "primaryEruptiveType": ""
+            "overMax": 6,
+            "primaryEruptiveType": "Explosive"
         },
         {
             "name": "Black Rock Desert Volcanic Field",
@@ -379,490 +379,560 @@
             "type": "Stratovolcano",
             "overMax": 5,
             "primaryEruptiveType": "Explosive"
-        },{
+        },
+        {
             "name": "Cheb Basin",
             "vei": 4,
             "coordinates": [50.00141502940412, 12.41935964787136],
             "type": "Volcanic Field",
             "overMax": 4,
             "primaryEruptiveType": "Effusive"
-        },{
+        },
+        {
             "name": "Adams Seamount",
             "vei": 0,
             "coordinates": [-25.367337541426426, -129.26484353208787],
             "type": "Seamount",
             "overMax": 1,
             "primaryEruptiveType": "Effusive"
-        },{
+        },
+        {
             "name": "Grímsvötn",
             "vei": 6,
             "coordinates": [64.41130059843258, -17.348897657547454],
             "type": "Caldera",
             "overMax": 6,
             "primaryEruptiveType": "Effusive"
-        },{
+        },
+        {
             "name": "Reykjanes",
             "vei": 4,
             "coordinates": [63.81658477515657, -22.716257784770598],
             "type": "Volcanic Field",
             "overMax": 4,
             "primaryEruptiveType": "Effusive"
-        },{
+        },
+        {
             "name": "Mendeleyeva",
             "vei": 6,
             "coordinates": [43.97944836355528, 145.7326933786333],
             "type": "Stratovolcano",
             "overMax": 6,
             "primaryEruptiveType": "Effusive"
-        },{
+        },
+        {
             "name": "Chirinkotan",
             "vei": 2,
             "coordinates": [48.98023472232572, 153.48642701288995],
             "type": "Stratovolcano",
             "overMax": 2,
             "primaryEruptiveType": "Effusive"
-        },{
+        },
+        {
             "name": "Kita-Ioto",
             "vei": 2,
             "coordinates": [25.434202784274653, 141.28256320462435],
             "type": "Stratovolcano",
             "overMax": 2,
             "primaryEruptiveType": "Effusive"
-        },{
+        },
+        {
             "name": "Komarov",
             "vei": 0,
             "coordinates": [55.032436172193904, 160.72675963838097],
             "type": "Complex",
             "overMax": 0,
             "primaryEruptiveType": "Effusive"
-        },{
+        },
+        {
             "name": "Klabat",
             "vei": 1,
             "coordinates": [1.4541812013731474, 125.03008253151728],
             "type": "Stratovolcano",
             "overMax": 1,
             "primaryEruptiveType": "Effusive"
-        },{
+        },
+        {
             "name": "Fonuafo'ou",
             "vei": 3,
             "coordinates": [-20.316553430395373, -175.41053918332267],
             "type": "Stratovolcano",
             "overMax": 3,
             "primaryEruptiveType": "Effusive"
-        },{
+        },
+        {
             "name": "Oden",
             "vei": 0,
             "coordinates": [85.607969, 85.250017],
             "type": "Submarine",
             "overMax": 0,
             "primaryEruptiveType": "Effusive"
-        },{
+        },
+        {
             "name": "Black Butte Crater Lava Field",
             "vei": 0,
             "coordinates": [43.1844778434155, -114.35246393928385],
             "type": "Shield",
             "overMax": 0,
             "primaryEruptiveType": "Effusive"
-        },{
+        },
+        {
             "name": "Kasuga 1",
             "vei": 0,
             "coordinates": [21.77382747632848, 143.70663523688347],
             "type": "Seamount",
             "overMax": 0,
-            "primaryEruptiveType": ""
-        },{
+            "primaryEruptiveType": "Effusive"
+        },
+        {
             "name": "Cantal",
             "vei": 3,
             "coordinates": [45.07415805822629, 2.691426712357053],
             "type": "Stratovolcano",
             "overMax": 4,
             "primaryEruptiveType": "Effusive"
-        },{
+        },
+        {
             "name": "Campi Flegrei del Mar di Sicilia",
             "vei": 3,
             "coordinates": [37.09956195317853, 12.699478976736982],
             "type": "Stratovolcano",
             "overMax": 3,
             "primaryEruptiveType": "Effusive"
-        },{
+        },
+        {
             "name": "Snowdon Caldera",
             "vei": 6,
             "coordinates": [53.079446332004515, -4.004820135119707],
             "type": "Caldera",
             "overMax": 6,
             "primaryEruptiveType": "Explosive"
-        },{
+        },
+        {
             "name": "Glen Coe",
             "vei": 6,
             "coordinates": [56.66996083232402, -5.006541400543143],
             "type": "Caldera",
             "overMax": 6,
             "primaryEruptiveType": "Explosive"
-        },{
+        },
+        {
             "name": "Ben Nevis",
             "vei": 6,
             "coordinates": [56.79786365409708, -5.006390281866779],
             "type": "Stratovolcano",
             "overMax": 6,
             "primaryEruptiveType": ""
-        },{
+        },
+        {
             "name": "Nahe Caldera",
             "vei": 7,
             "coordinates": [49.785565761571426, 7.710713778744088],
             "type": "Caldera",
             "overMax": 7,
             "primaryEruptiveType": "Explosive"
-        },{
+        },
+        {
             "name": "Mount Withington Caldera",
             "vei": 8,
             "coordinates": [33.87020929003263, -107.47993814884147],
             "type": "Caldera",
             "overMax": 8,
             "primaryEruptiveType": "Explosive"
-        },{
+        },
+        {
             "name": "Rochlitz Volcanic System",
             "vei": 8,
             "coordinates": [51.1327180802727, 12.924773326186937],
             "type": "Caldera Complex",
             "overMax": 8,
             "primaryEruptiveType": "Explosive"
-        },{
+        },
+        {
             "name": "Vandever Mountain Caldera",
             "vei": 6,
             "coordinates": [36.40058824038865, -118.58993402800716],
             "type": "Composite",
             "overMax": 6,
             "primaryEruptiveType": "Explosive"
-        },{
+        },
+        {
             "name": "Adams",
             "vei": 2,
             "coordinates": [46.20487114865585, -121.49441694806465],
             "type": "Stratovolcano",
             "overMax": 2,
             "primaryEruptiveType": "Effusive"
-        },{vei": 2
+        },
+        {
             "name": "Alcedo",
             "vei": 5,
             "coordinates": [-0.4247887396736265, -91.12497577225064],
             "type": "Shield",
             "overMax": 5,
             "primaryEruptiveType": "Effusive"
-        },{
+        },
+        {
             "name": "Ambang",
             "vei": 1,
             "coordinates": [0.7569765829440647, 124.41582256653736],
             "type": "Composite",
             "overMax": 1,
             "primaryEruptiveType": "Effusive"
-        },{
+        },
+        {
             "name": "Hell's Half Acre",
             "vei": 0,
             "coordinates": [43.49116598161107, -112.44942140398945],
             "type": "Shield",
             "overMax": 0,
             "primaryEruptiveType": "Effusive"
-        },{
+        },
+        {
             "name": "Craters of the Moon",
             "vei": 0,
             "coordinates": [43.4473882348748, -113.55493757339356],
             "type": "Volcanic Field",
             "overMax": 0,
             "primaryEruptiveType": "Effusive"
-        },{
+        },
+        {
             "name": "Black Butte Crater",
             "vei": 0,
             "coordinates": [43.18519048656423, -114.35279645707531],
             "type": "Stratovolcano",
             "overMax": 0,
             "primaryEruptiveType": "Effusive"
-        },{
+        },
+        {
             "name": "Dallol",
             "vei": 1,
             "coordinates": [14.238572620337683, 40.29739943925723],
             "type": "Explosion Craters",
             "overMax": 1,
             "primaryEruptiveType": "Effusive"
-        },{
+        },
+        {
             "name": "Zubair Group",
             "vei": 2,
             "coordinates": [15.052330196069576, 42.17715779277757],
             "type": "Volcanic Field",
             "overMax": 2,
             "primaryEruptiveType": "Effusive"
-        },{
+        },
+        {
             "name": "Jan Mayen",
             "vei": 4,
             "coordinates": [71.07899627765647, -8.155530400350923],
             "type": "Stratovolcano",
             "overMax": 4,
             "primaryEruptiveType": "Effusive"
-        },{
+        },
+        {
             "name": "Bora-Bericha-Tullu Moye",
             "vei": 1,
             "coordinates": [8.160777245097814, 39.13658109558881],
             "type": "Pyroclastic Cone",
             "overMax": 1,
             "primaryEruptiveType": "Effusive"
-        },{
+        },
+        {
             "name": "Ilopango",
             "vei": 6,
             "coordinates": [13.669188016336765, -89.04568729297493],
             "type": "Caldera",
             "overMax": 6,
             "primaryEruptiveType": "Explosive"
-        },{
+        },
+        {
             "name": "Ijen",
             "vei": 2,
             "coordinates": [-8.058125802146805, 114.24262771025799],
             "type": "Stratovolcano",
             "overMax": 2,
             "primaryEruptiveType": "Effusive"
-        },{
+        },
+        {
             "name": "High Island Caldera Complex",
             "vei": 8,
             "coordinates": [22.40515105261012, 114.34071692873307],
             "type": "Caldera Complex",
             "overMax": 8,
             "primaryEruptiveType": "Explosive"
-        },{
+        },
+        {
             "name": "Ciomadul",
             "vei": 4,
             "coordinates": [46.12618676447155, 25.886996345510926],
             "type": "Composite",
             "overMax": 4,
             "primaryEruptiveType": "Effusive"
-        },{
+        },
+        {
             "name": "Awu",
             "vei": 4,
             "coordinates": [3.6821257487342813, 125.45415093454407],
             "type": "Stratovolcano",
             "overMax": 4,
             "primaryEruptiveType": "Effusive"
-        },{
+        },
+        {
             "name": "Billy Mitchell",
             "vei": 6,
             "coordinates": [-6.091751356056487, 155.225722594253],
             "type": "Stratovolcano",
             "overMax": 6,
             "primaryEruptiveType": "Explosive"
-        },{
+        },
+        {
             "name": "Axial Seamount",
             "vei": 0,
             "coordinates": [45.95558682759971, -130.00406150640345],
             "type": "Seamount",
             "overMax": 0,
             "primaryEruptiveType": "Effusive"
-        },{
+        },
+        {
             "name": "CoAxial Seamount",
             "vei": 0,
             "coordinates": [46.5241646330869, -129.5871540790829],
             "type": "Seamount",
             "overMax": 0,
             "primaryEruptiveType": "Effusive"
-        },{
+        },
+        {
             "name": "Cameroon",
             "vei": 3,
             "coordinates": [4.2116097907718135, 9.176239734422667],
             "type": "Stratovolcano",
             "overMax": 3,
             "primaryEruptiveType": "Effusive"
-        },{
+        },
+        {
             "name": "Marrah Caldera",
             "vei": 6,
             "coordinates": [12.956034869283506, 24.2616163117356],
             "type": "Caldera",
             "overMax": 6,
             "primaryEruptiveType": "Explosive"
-        },{
+        },
+        {
             "name": "Meidob Volcanic Field",
             "vei": 4,
             "coordinates": [15.313563860620688, 26.471119504427104],
             "type": "Volcanic Field",
             "overMax": 4,
             "primaryEruptiveType": "Explosive"
-        },{
+        },
+        {
             "name": "Waw an Namus",
             "vei": 5,
             "coordinates": [24.915215292037246, 17.759455401562953],
             "type": "Caldera",
             "overMax": 5,
             "primaryEruptiveType": "Explosive"
-        },{
+        },
+        {
             "name": "Cotopaxi",
             "vei": 5,
             "coordinates": [-0.683665002495778, -78.4371474515439],
             "type": "Stratovolcano",
             "overMax": 5,
             "primaryEruptiveType": "Effusive"
-        },{
+        },
+        {
             "name": "Candlemas Island",
             "vei": 2,
             "coordinates": [-57.08223862762153, -26.734159689046937],
             "type": "Complex",
             "overMax": 2,
             "primaryEruptiveType": "Effusive"
-        },{
+        },
+        {
             "name": "Monte Burney",
             "vei": 5,
             "coordinates": [-52.32497019185723, -73.37996404515982],
             "type": "Stratovolcano",
             "overMax": 5,
             "primaryEruptiveType": ""
-        },{
+        },
+        {
             "name": "Chichinautzin",
             "vei": 4,
             "coordinates": [19.088840768917393, -99.13459333352897],
             "type": "Volcanic Field",
             "overMax": 4,
             "primaryEruptiveType": "Effusive"
-        },{
+        },
+        {
             "name": "El Chichón",
             "vei": 5,
             "coordinates": [17.36059728693712, -93.22951480399726],
             "type": "Stratovolcano",
             "overMax": 5,
             "primaryEruptiveType": "Explosive"
-        },{
+        },
+        {
             "name": "Changbaishan",
             "vei": 7,
             "coordinates": [42.00594319738998, 128.06036008283894],
             "type": "Caldera",
             "overMax": 7,
             "primaryEruptiveType": "Explosive"
-        },{
+        },
+        {
             "name": "North Vate",
             "vei": 7,
             "coordinates": [-17.50987699748425, 168.36363775534275],
             "type": "Caldera",
             "overMax": 7,
             "primaryEruptiveType": "Effusive"
-        },{
+        },
+        {
             "name": "Ambrym",
             "vei": 6,
             "coordinates": [-16.24955120332632, 168.12862750947002],
             "type": "Shield",
             "overMax": 6,
             "primaryEruptiveType": "Effusive"
-        },{
+        },
+        {
             "name": "Lake Turkana South Island",
             "vei": 1,
             "coordinates": [2.6330145945123453, 36.59715287796779],
             "type": "Shield",
             "overMax": 1,
             "primaryEruptiveType": "Effusive"
-        },{
+        },
+        {
             "name": "Boomerang Seamount",
             "vei": 0,
             "coordinates": [-37.722451660815516, 77.82128639829847],
             "type": "Seamount",
             "overMax": 0,
             "primaryEruptiveType": "Effusive"
-        },{
+        },
+        {
             "name": "Fourpeaked",
             "vei": 2,
             "coordinates": [58.77564087922503, -153.6456014726466],
             "type": "Stratovolcano",
             "overMax": 2,
             "primaryEruptiveType": "Effusive"
-        },{
+        },
+        {
             "name": "Iliamna",
             "vei": 4,
             "coordinates": [60.032541150352124, -153.08810589785097],
             "type": "Stratovolcano",
             "overMax": 4,
             "primaryEruptiveType": "Explosive"
-        },{
+        },
+        {
             "name": "Kanaga",
             "vei": 2,
             "coordinates": [51.92354637789967, -177.1632452941201],
             "type": "Stratovolcano",
             "overMax": 2,
             "primaryEruptiveType": "Effusive"
-        },{
+        },
+        {
             "name": "Kanlaon",
             "vei": 3,
             "coordinates": [10.411232658373713, 123.13227639606902],
             "type": "Stratovolcano",
             "overMax": 3,
             "primaryEruptiveType": "Effusive"
-        },{
+        },
+        {
             "name": "Lake Turkana Central Island",
             "vei": 0,
             "coordinates": [3.499987039385443, 36.03649316789501],
             "type": "Tuff Cone",
             "overMax": 1,
             "primaryEruptiveType": "Effusive"
-        },{
+        },
+        {
             "name": "Monaco Bank",
             "vei": 1,
             "coordinates": [37.599159395424046, -25.886837022990694],
             "type": "Seamount",
             "overMax": 1,
             "primaryEruptiveType": "Effusive"
-        },{
+        },
+        {
             "name": "Pagan",
             "vei": 4,
             "coordinates": [18.141093689714886, 145.78598336445796],
             "type": "Stratovolcano",
             "overMax": 4,
             "primaryEruptiveType": "Effusive"
-        },{
+        },
+        {
             "name": "Pico Fracture Zone",
             "vei": 0,
             "coordinates": [38.692760090196344, -38.487882110689974],
             "type": "Seamount",
             "overMax": 0,
             "primaryEruptiveType": "Effusive"
-        },{
+        },
+        {
             "name": "Protector Seamounts",
             "vei": 1,
             "coordinates": [-55.943459795357164, -28.149170441457752],
             "type": "Seamount",
             "overMax": 1,
             "primaryEruptiveType": "Effusive"
-        },{
+        },
+        {
             "name": "Vsevidof",
             "vei": 3,
             "coordinates": [53.12612589680645, -168.68738351523217],
             "type": "Stratovolcano",
             "overMax": 3,
             "primaryEruptiveType": "Effusive"
-        },{
+        },
+        {
             "name": "Wapi Lava Field",
             "vei": 2,
             "coordinates": [42.88530060831693, -113.21605508500056],
             "type": "Shield",
-            "overMax": 2,`
+            "overMax": 2,
             "primaryEruptiveType": "Effusive"
-        },{
+        },
+        {
             "name": "Jabal Yar",
             "vei": 2,
             "coordinates": [17.193371755653146, 42.74157097895395],
             "type": "Volcanic Field",
             "overMax": 2,
             "primaryEruptiveType": "Effusive"
-        },{
+        },
+        {
             "name": "Traitor's Head",
             "vei": 0,
             "coordinates": [-18.755042924373633, 169.24017015326837],
             "type": "Composite",
             "overMax": 0,
             "primaryEruptiveType": "Effusive"
-        },{
+        },
+        {
             "name": "Tinakula",
             "vei": 3,
             "coordinates": [-10.385801732433134, 165.8028091036838],
             "type": "Stratovolcano",
             "overMax": 3,
             "primaryEruptiveType": "Effusive"
-        },{
+        },
+        {
             "name": "Cleft Segment",
             "vei": 0,
             "coordinates": [44.83007245588162, -130.2999191679957],
             "type": "Submarine",
             "overMax": 0,
             "primaryEruptiveType": "Effusive"
-        },{
+        },
+        {
             "name": "Buzzard Creek",
             "vei": 2,
             "coordinates": [64.06154316644702, -148.4333703030437],
