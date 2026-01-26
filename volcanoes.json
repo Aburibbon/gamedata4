@@ -1075,6 +1075,206 @@
             "type": "Caldera",
             "overMax": 6,
             "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Aguilera",
+            "vei": 5,
+            "coordinates": [-50.33327061840428, -73.75101529925301],
+            "type": "Composite",
+            "overMax": 5,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Bagana",
+            "vei": 4,
+            "coordinates": [-6.137346732582976, 155.19584481827607],
+            "type": "Stratovolcano",
+            "overMax": 5,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Babuyan Claro",
+            "vei": 3,
+            "coordinates": [19.523992952458503, 121.94975664068387],
+            "type": "Stratovolcano",
+            "overMax": 3,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Krakatoa",
+            "vei": 6,
+            "coordinates": [-6.102498750834098, 105.42280946265349],
+            "type": "Caldera",
+            "overMax": 6,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Tambora",
+            "vei": 7,
+            "coordinates": [-8.247465863262715, 117.99147842041937],
+            "type": "Caldera",
+            "overMax": 7,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Kuwae",
+            "vei": 7,
+            "coordinates": [-16.840771702965654, 168.52168511187273],
+            "type": "Caldera",
+            "overMax": 7,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Lewotobi",
+            "vei": 3,
+            "coordinates": [-8.537322077402639, 122.7674823190052],
+            "type": "Composite",
+            "overMax": 3,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Dempo",
+            "vei": 2,
+            "coordinates": [-4.0163327288852395, 103.12368929557046],
+            "type": "Stratovolcano",
+            "overMax": 2,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Sumbing",
+            "vei": 1,
+            "coordinates": [-7.3815886051471225, 110.07499443590712],
+            "type": "Stratovolcano",
+            "overMax": 1,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Sumbing",
+            "vei": 2,
+            "coordinates": [-2.4112072589643416, 101.72453214334607],
+            "type": "Stratovolcano",
+            "overMax": 2,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Tacana",
+            "vei": 4,
+            "coordinates": [15.132516436751098, -92.10862397447028],
+            "type": "Stratovolcano",
+            "overMax": 4,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Jebel at Tair",
+            "vei": 3,
+            "coordinates": [15.542574133619746, 41.83525929392425],
+            "type": "Composite",
+            "overMax": 3,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Karangetang",
+            "vei": 3,
+            "coordinates": [2.7771602775847133, 125.40623738506517],
+            "type": "Stratovolcano",
+            "overMax": 4,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Kie Besi",
+            "vei": 4,
+            "coordinates": [0.32334391754842934, 127.39953997939726],
+            "type": "Stratovolcano",
+            "overMax": 4,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Milbanke Sound Group",
+            "vei": 3,
+            "coordinates": [52.498171619221054, -128.72334518957598],
+            "type": "Composite",
+            "overMax": 3,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Mususan",
+            "vei": 1,
+            "coordinates": [7.876744427287821, 125.069603435863],
+            "type": "Composite",
+            "overMax": 2,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Three Sisters",
+            "vei": 4,
+            "coordinates": [44.14854123087476, -121.78284960776558],
+            "type": "Complex",
+            "overMax": 4,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Southern Thule",
+            "vei": 1,
+            "coordinates": [-59.442514979362464, -27.230935631702636],
+            "type": "Composite",
+            "overMax": 2,
+            "primaryEruptiveType": "Effusive "
+        },
+		{
+            "name": "Havre Seamount",
+            "vei": 1,
+            "coordinates": [-31.10206972296377, -179.03620005244557],
+            "type": "Seamount",
+            "overMax": 1,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Sundhnúkur",
+            "vei": 0,
+            "coordinates": [63.87278703079754, -22.39915801567772],
+            "type": "Basaltic Cone",
+            "overMax": 1,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Masaya",
+            "vei": 6,
+            "coordinates": [11.985246628279238, -86.16076123503983],
+            "type": "Complex",
+            "overMax": 6,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Eve Cone",
+            "vei": 1,
+            "coordinates": [57.81330539949276, -130.67545019126229],
+            "type": "Basaltic",
+            "overMax": 1,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Snaefellsjökull",
+            "vei": 2,
+            "coordinates": [64.80500130965972, -23.777785082117866],
+            "type": "Stratovolcano",
+            "overMax": 2,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Mauna Ulu",
+            "vei": 1,
+            "coordinates": [19.367244722178192, -155.2016011580266],
+            "type": "",
+            "overMax": 1,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Capulin Volcano",
+            "vei": 1,
+            "coordinates": [36.782486027439084, -103.97013179650281],
+            "type": "Basaltic Cone",
+            "overMax": 1,
+            "primaryEruptiveType": "Effusive"
         }
     ]
 }
