@@ -939,6 +939,142 @@
             "type": "Complex",
             "overMax": 2,
             "primaryEruptiveType": "Explosive"
+        },
+        {
+            "name": "Menengai",
+            "vei": 6,
+            "coordinates": [-0.19873191186769404, 36.06818102131221],
+            "type": "Caldera",
+            "overMax": 6,
+            "primaryEruptiveType": "Explosive"
+        },
+        {
+            "name": "Ol Doinyo Lengai",
+            "vei": 4,
+            "coordinates": [-2.759439904581279, 35.91394831526662],
+            "type": "Stratovolcano",
+            "overMax": 4,
+            "primaryEruptiveType": "Effusive"
+        },
+        {
+            "name": "Arjuno-Welirang",
+            "vei": 2,
+            "coordinates": [-7.732638529064484, 112.57480687640205],
+            "type": "Stratovolcano",
+            "overMax": 2,
+            "primaryEruptiveType": "Effusive"
+        },
+	    {
+            "name": "Dotsero",
+            "vei": 2,
+            "coordinates": [39.66163034634605, -107.03539271534504],
+            "type": "Maar",
+            "overMax": 2,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Mount Erciyes",
+            "vei": 7,
+            "coordinates": [38.53051952576415, 35.4479656450546],
+            "type": "Complex",
+            "overMax": 7,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Etorofu-Yakeyama",
+            "vei": 2,
+            "coordinates": [45.01159038805533, 147.8711823865741],
+            "type": "Composite",
+            "overMax": 2,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Fentale",
+            "vei": 6,
+            "coordinates": [8.983759747200821, 39.90567684162229],
+            "type": "Caldera",
+            "overMax": 6,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Fernandina",
+            "vei": 4,
+            "coordinates": [],
+            "type": "Shield",
+            "overMax": 5,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Taupō Caldera",
+            "vei": 8,
+            "coordinates": [-38.79182660426159, 175.9005675295921],
+            "type": "Caldera",
+            "overMax": 8,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Rotorua Caldera",
+            "vei": 7,
+            "coordinates": [-38.07971933658747, 176.2741026672737],
+            "type": "Caldera",
+            "overMax": 7,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Cobre Ridge Caldera",
+            "vei": 8,
+            "coordinates": [31.432336592098377, -111.25948116823947],
+            "type": "Caldera",
+            "overMax": 8,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "La Garita Caldera",
+            "vei": 8,
+            "coordinates": [37.77327714065644, -106.90584447069178],
+            "type": "Caldera",
+            "overMax": 8,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Raton-Clayton Volcanic Field",
+            "vei": 3,
+            "coordinates": [36.50085608754616, -104.29978596873588],
+            "type": "Volcanic Field",
+            "overMax": 3,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Emory Caldera",
+            "vei": 8,
+            "coordinates": [],
+            "type": "Caldera",
+            "overMax": 8,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Creede Caldera",
+            "vei": 7,
+            "coordinates": [37.98762384742884, -106.72475833258373],
+            "type": "Caldera",
+            "overMax": 7,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Fueguino",
+            "vei": 2,
+            "coordinates": [-54.97014777432786, -70.26100758512631],
+            "type": "",
+            "overMax": 2,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Fisher",
+            "vei": 6,
+            "coordinates": [54.66633382988354, -164.38382745978916],
+            "type": "Caldera",
+            "overMax": 6,
+            "primaryEruptiveType": "Explosive"
         }
     ]
 }
