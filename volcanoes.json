@@ -1275,6 +1275,126 @@
             "type": "Basaltic Cone",
             "overMax": 1,
             "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Auckland Volcanic Field",
+            "vei": 2,
+            "coordinates": [-36.8774091584815, 174.76437249559476],
+            "type": "Volcanic Field",
+            "overMax": 4,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Augustine",
+            "vei": 4,
+            "coordinates": [59.36029398734619, -153.42999910093442],
+            "type": "Stratovolcano",
+            "overMax": 4,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Buzzard Creek",
+            "vei": 2,
+            "coordinates": [64.06211018340669, -148.43175003915144],
+            "type": "Tuff Ring",
+            "overMax": 2,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Cerro Galán",
+            "vei": 8,
+            "coordinates": [-25.956036891122874, -66.9335186506898],
+            "type": "Caldera",
+            "overMax": 8,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Vilama",
+            "vei": 8,
+            "coordinates": [-22.399927961982183, -66.95000396868846],
+            "type": "Caldera",
+            "overMax": 8,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Deception Island",
+            "vei": 7,
+            "coordinates": [-62.958376816755376, -60.63190075327993],
+            "type": "Caldera",
+            "overMax": 7,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "McDonald Islands",
+            "vei": 1,
+            "coordinates": [-53.10579727991501, 73.5367074290053],
+            "type": "Stratovolcano",
+            "overMax": 2,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Methana",
+            "vei": 2,
+            "coordinates": [37.608659044120444, 23.37069888367203],
+            "type": "Composite",
+            "overMax": 2,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Kos",
+            "vei": 7,
+            "coordinates": [36.75184735421655, 27.281252147969518],
+            "type": "Caldera",
+            "overMax": 7,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Santorini",
+            "vei": 7,
+            "coordinates": [36.401929757251494, 25.395504205273376],
+            "type": "Caldera",
+            "overMax": 7,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Nisyros",
+            "vei": 4,
+            "coordinates": [36.588358245094085, 27.165544518948472],
+            "type": "Composite",
+            "overMax": 5,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Savai'i",
+            "vei": 2,
+            "coordinates": [-13.627321964100863, -172.43374678619017],
+            "type": "Shield",
+            "overMax": 3,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Don Joao de Castro Bank",
+            "vei": 2,
+            "coordinates": [38.22999863921527, -26.62999008730377],
+            "type": "Seamount",
+            "overMax": 2,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Cerberean Caldera",
+            "vei": 8,
+            "coordinates": [-37.40849040077337, 145.86500654910387],
+            "type": "Caldera",
+            "overMax": 8,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Endeavor Segment",
+            "vei": 0,
+            "coordinates": [47.94998559933079, -129.10001073211356],
+            "type": "Submarine",
+            "overMax": 1,
+            "primaryEruptiveType": "Effusive"
         }
     ]
 }
