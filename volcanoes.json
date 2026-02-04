@@ -693,11 +693,11 @@
             "primaryEruptiveType": "Effusive"
         },
         {
-            "name": "CoAxial Seamount",
+            "name": "CoAxial Segment",
             "vei": 0,
             "coordinates": [46.5241646330869, -129.5871540790829],
             "type": "Seamount",
-            "overMax": 0,
+            "overMax": 1,
             "primaryEruptiveType": "Effusive"
         },
         {
