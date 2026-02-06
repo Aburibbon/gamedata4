@@ -1475,6 +1475,126 @@
             "type": "Caldera",
             "overMax": 7,
             "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Lobster",
+            "vei": 0,
+            "coordinates": [-15.331491655977258, -176.2783370734738],
+            "type": "Submarine",
+            "overMax": 1,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Merapi",
+            "vei": 4,
+            "coordinates": [-7.54165325091266, 110.44589568859783],
+            "type": "Stratovolcano",
+            "overMax": 5,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Aso",
+            "vei": 8,
+            "coordinates": [32.88505071805687, 131.08485586930902],
+            "type": "Caldera",
+            "overMax": 8,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Fuji",
+            "vei": 5,
+            "coordinates": [35.363012187891414, 138.73052955078836],
+            "type": "Stratovolcano",
+            "overMax": 6,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Hachijojima",
+            "vei": 6,
+            "coordinates": [33.1382824710904, 139.76439902751756],
+            "type": "Complex",
+            "overMax": 6,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Hakone",
+            "vei": 6,
+            "coordinates": [35.23859147552027, 139.01774025228198],
+            "type": "Complex",
+            "overMax": 6,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Futamata",
+            "vei": 7,
+            "coordinates": [37.24335893598375, 139.9700845816555],
+            "type": "Composite",
+            "overMax": 7,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Rishirizan",
+            "vei": 5,
+            "coordinates": [45.18134419856042, 141.24089455183008],
+            "type": "Stratovolcano",
+            "overMax": 6,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Ioto",
+            "vei": 4,
+            "coordinates": [24.74884579792196, 141.2877344861007],
+            "type": "Composite",
+            "overMax": 4,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Pagan",
+            "vei": 4,
+            "coordinates": [18.141199849471768, 145.78665959544864],
+            "type": "Stratovolcano",
+            "overMax": 4,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Agrigan",
+            "vei": 4,
+            "coordinates": [18.778273130971787, 145.6715062191098],
+            "type": "Stratovolcano",
+            "overMax": 4,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Alamigan",
+            "vei": 4,
+            "coordinates": [17.598285624884785, 145.83885746927714],
+            "type": "Composite",
+            "overMax": 4,
+            "primaryEruptiveType": "Composite"
+        },
+		{
+            "name": "Vulsini",
+            "vei": 7,
+            "coordinates": [42.598066566627935, 11.932633943317224],
+            "type": "Caldera",
+            "overMax": 7,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Sabatini Complex",
+            "vei": 7,
+            "coordinates": [42.12122429670522, 12.230663796075547],
+            "type": "Caldera",
+            "overMax": 7,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Corbetti Caldera",
+            "vei": 8,
+            "coordinates": [7.1998852156083775, 38.378350290794025],
+            "type": "Caldera Complex",
+            "overMax": 8,
+            "primaryEruptiveType": "Explosive"
         }
     ]
 }
