@@ -110,10 +110,10 @@
         },
         {
             "name": "Valles Caldera",
-            "vei": 7,
+            "vei": 8,
             "coordinates": [35.90862256434648, -106.53190742684981],
             "type": "Caldera",
-            "overMax": 7,
+            "overMax": 8,
             "primaryEruptiveType": "Explosive"
         },
         {
@@ -320,7 +320,7 @@
             "name": "Pu‘U ‘Ō‘Ō",
             "vei": 1,
             "coordinates": [19.388540621063278, -155.10640451190258],
-            "type": "Pyroclastic Cone",
+            "type": "Minor",
             "overMax": 2,
             "primaryEruptiveType": "Effusive"
         },
@@ -352,7 +352,7 @@
             "name": "Nazko Cone",
             "vei": 2,
             "coordinates": [52.92729678692188, -123.73554393622317],
-            "type": "Pyroclastic Cone",
+            "type": "Minor",
             "overMax": 2,
             "primaryEruptiveType": "Effusive"
         },
@@ -632,7 +632,7 @@
             "name": "Bora-Bericha-Tullu Moye",
             "vei": 1,
             "coordinates": [8.160777245097814, 39.13658109558881],
-            "type": "Pyroclastic Cone",
+            "type": "Minor",
             "overMax": 1,
             "primaryEruptiveType": "Effusive"
         },
@@ -848,7 +848,7 @@
             "name": "Lake Turkana Central Island",
             "vei": 0,
             "coordinates": [3.499987039385443, 36.03649316789501],
-            "type": "Tuff Cone",
+            "type": "Minor",
             "overMax": 1,
             "primaryEruptiveType": "Effusive"
         },
@@ -1232,7 +1232,7 @@
             "name": "Sundhnúkur",
             "vei": 0,
             "coordinates": [63.87278703079754, -22.39915801567772],
-            "type": "Basaltic Cone",
+            "type": "Minor",
             "overMax": 1,
             "primaryEruptiveType": "Effusive"
         },
@@ -1248,7 +1248,7 @@
             "name": "Eve Cone",
             "vei": 1,
             "coordinates": [57.81330539949276, -130.67545019126229],
-            "type": "Basaltic Cone",
+            "type": "Minor",
             "overMax": 1,
             "primaryEruptiveType": "Effusive"
         },
@@ -1272,7 +1272,7 @@
             "name": "Capulin Volcano",
             "vei": 1,
             "coordinates": [36.782486027439084, -103.97013179650281],
-            "type": "Basaltic Cone",
+            "type": "Minor",
             "overMax": 1,
             "primaryEruptiveType": "Effusive"
         },
@@ -1688,7 +1688,7 @@
             "name": "Khoid Naiman Nuur",
             "vei": 1,
             "coordinates": [46.646418133550256, 101.79704318471276],
-            "type": "Basaltic Cone",
+            "type": "Minor",
             "overMax": 2,
             "primaryEruptiveType": "Effusive"
         },
@@ -1696,7 +1696,7 @@
             "name": "Lake Turkana North Island",
             "vei": 2,
             "coordinates": [4.063171118840862, 36.0442315564576],
-            "type": "Tuff Cone",
+            "type": "Minor",
             "overMax": 2,
             "primaryEruptiveType": ""
         },
@@ -1704,7 +1704,7 @@
             "name": "Kostakan",
             "vei": 3,
             "coordinates": [53.833420607749034, 158.05181443623871],
-            "type": "Basaltic Cone",
+            "type": "Minor",
             "overMax": 3,
             "primaryEruptiveType": "Effusive"
         },
@@ -1712,7 +1712,7 @@
             "name": "Licto",
             "vei": 2,
             "coordinates": [-1.7861269475925952, -78.61429933704541],
-            "type": "Basaltic Cone",
+            "type": "Minor",
             "overMax": 3,
             "primaryEruptiveType": "Effusive"
         },
@@ -1728,7 +1728,7 @@
             "name": "Paulet Island",
             "vei": 2,
             "coordinates": [-63.57991110122418, -55.79064954840185],
-            "type": "Basaltic Cone",
+            "type": "Minor",
             "overMax": 3,
             "primaryEruptiveType": "Effusive"
         },
@@ -1736,7 +1736,7 @@
             "name": "Resago",
             "vei": 2,
             "coordinates": [-36.46063001798045, -70.90341335678355],
-            "type": "Basaltic Cone",
+            "type": "Minor",
             "overMax": 2,
             "primaryEruptiveType": "Effusive"
         },
@@ -1744,7 +1744,7 @@
             "name": "Tseax River Cone",
             "vei": 1,
             "coordinates": [55.110803723293834, -128.89904110926634],
-            "type": "Basaltic Cone",
+            "type": "Minor",
             "overMax": 2,
             "primaryEruptiveType": "Effusive"
         },
@@ -1794,6 +1794,246 @@
             "coordinates": [31.6551681368442, 130.70460709656626],
             "type": "Caldera",
             "overMax": 8,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Kita-Fukutokutai",
+            "vei": 0,
+            "coordinates": [24.416882918622733, 141.41751203780598],
+            "type": "Submarine",
+            "overMax": 0,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Kizimen",
+            "vei": 5,
+            "coordinates": [55.13106545383158, 160.32159257261543],
+            "type": "Stratovolcano",
+            "overMax": 5,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Nemo Peak",
+            "vei": 7,
+            "coordinates": [49.5643433529137, 154.813366227704],
+            "type": "",
+            "overMax": 7,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Tao-Rusyr Caldera",
+            "vei": 6,
+            "coordinates": [49.35319364553768, 154.70726030515794],
+            "type": "Caldera",
+            "overMax": 6,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Sinarka",
+            "vei": 4,
+            "coordinates": [48.873285852408145, 154.1794704551081],
+            "type": "Composite",
+            "overMax": 4,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Kharimkotan",
+            "vei": 5,
+            "coordinates": [49.11871327630549, 154.51898877477316],
+            "type": "Stratovolcano",
+            "overMax": 5,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Silali",
+            "vei": 6,
+            "coordinates": [1.1642353073867624, 36.223578631603345],
+            "type": "Caldera",
+            "overMax": 6,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Ukinrek Maars",
+            "vei": 3,
+            "coordinates": [57.83386611847389, -156.51421919685814],
+            "type": "Volcanic Field",
+            "overMax": 3,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Uinkaret Field",
+            "vei": 1,
+            "coordinates": [36.37464088656377, -113.13265729278477],
+            "type": "Volcanic Field",
+            "overMax": 1,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Barcena",
+            "vei": 3,
+            "coordinates": [19.308614864319015, -110.80753115750697],
+            "type": "Minor",
+            "overMax": 3,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Bárðarbunga",
+            "vei": 6,
+            "coordinates": [64.63299668633387, -17.515996955803868],
+            "type": "Stratovolcano",
+            "overMax": 6,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "The Barrier",
+            "vei": 2,
+            "coordinates": [2.327449948436696, 36.57650788555707],
+            "type": "Shield",
+            "overMax": 2,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Ischia",
+            "vei": 7,
+            "coordinates": [40.7192525597017, 13.900788280954208],
+            "type": "Complex",
+            "overMax": 7,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Bükk Foreland Volcanic Area",
+            "vei": 7,
+            "coordinates": [47.90506975674878, 20.494475885570836],
+            "type": "Caldera Complex",
+            "overMax": 7,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Tharandt Forest Caldera",
+            "vei": 6,
+            "coordinates": [50.944663024256464, 13.476685126168361],
+            "type": "Caldera",
+            "overMax": 6,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Ora Caldera",
+            "vei": 8,
+            "coordinates": [46.39438942804652, 11.280338836223775],
+            "type": "Caldera",
+            "overMax": 8,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Góry Suche Rhyolitic Tuffs",
+            "vei": 7,
+            "coordinates": [51.592777720413196, 16.40866173494658],
+            "type": "Caldera",
+            "overMax": 7,
+            "primaryEruptiveType": "Explosive"
+        }, 
+		{
+            "name": "Bliznetsy",
+            "vei": 1,
+            "coordinates": [57.347588870438656, 161.35475289955056],
+            "type": "Lava Dome",
+            "overMax": 1,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Boomerang Seamount",
+            "vei": 0,
+            "coordinates": [-37.72230323280485, 77.82182100273697],
+            "type": "Seamount",
+            "overMax": 0,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Hoodoo Mountain",
+            "vei": 0,
+            "coordinates": [56.77296459388767, -131.29166087612313],
+            "type": "Composite",
+            "overMax": 0,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "East Epi",
+            "vei": 3,
+            "coordinates": [-16.672639544245214, 168.37488174302803],
+            "type": "Submarine",
+            "overMax": 3,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Huequi",
+            "vei": 3,
+            "coordinates": [-42.38123632182523, -72.58256654968045],
+            "type": "Minor",
+            "overMax": 3,
+            "primaryEruptiveType": ""
+        },
+		{
+            "name": "Hornopiren",
+            "vei": 4,
+            "coordinates": [-41.88050866235205, -72.43309414864962],
+            "type": "Minor",
+            "overMax": 4,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Kaitoku Seamount",
+            "vei": 1,
+            "coordinates": [26.119963217851012, 141.09504658687084],
+            "type": "Seamount",
+            "overMax": 1,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "South Sarigan Seamount",
+            "vei": 3,
+            "coordinates": [16.591081916488065, 145.77958284754416],
+            "type": "Seamount",
+            "overMax": 3,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Suoh",
+            "vei": 4,
+            "coordinates": [-5.250644698288242, 104.27332418174845],
+            "type": "Complex",
+            "overMax": 4,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "St. Andrew Strait",
+            "vei": 2,
+            "coordinates": [-2.4246637255171604, 147.32208298255517],
+            "type": "Complex",
+            "overMax": 2,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Talang",
+            "vei": 2,
+            "coordinates": [-0.9787425445190175, 100.68081760516856],
+            "type": "Stratovolcano",
+            "overMax": 2,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Trident",
+            "vei": 3,
+            "coordinates": [58.23673154597078, -155.102866116134],
+            "type": "Stratovolcano",
+            "overMax": 3,
+            "primaryEruptiveType": "Explosive-"
+        },
+		{
+            "name": "Crater Lake",
+            "vei": 7,
+            "coordinates": [42.94357591843088, -122.10907022354806],
+            "type": "Caldera",
+            "overMax": 7,
             "primaryEruptiveType": "Explosive"
         }
     ]
