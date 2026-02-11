@@ -1248,7 +1248,7 @@
             "name": "Eve Cone",
             "vei": 1,
             "coordinates": [57.81330539949276, -130.67545019126229],
-            "type": "Basaltic",
+            "type": "Basaltic Cone",
             "overMax": 1,
             "primaryEruptiveType": "Effusive"
         },
@@ -1593,6 +1593,206 @@
             "vei": 8,
             "coordinates": [7.1998852156083775, 38.378350290794025],
             "type": "Caldera Complex",
+            "overMax": 8,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Almolonga",
+            "vei": 3,
+            "coordinates": [14.797981032311322, -91.51900522962379],
+            "type": "Complex",
+            "overMax": 3,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "",
+            "vei": ,
+            "coordinates": [],
+            "type": "",
+            "overMax": ,
+            "primaryEruptiveType": ""
+        },
+		{
+            "name": "Chalupas",
+            "vei": 6,
+            "coordinates": [],
+            "type": "Caldera",
+            "overMax": 6,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Chacana",
+            "vei": 7,
+            "coordinates": [-0.3756992215906112, -78.25921831007174],
+            "type": "Caldera",
+            "overMax": 7,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Cotopaxi",
+            "vei": 6,
+            "coordinates": [-0.6838475254580434, -78.43704446570077],
+            "type": "Caldera",
+            "overMax": 6,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Puluagua",
+            "vei": 6,
+            "coordinates": [0.04284587847475012, -78.48779241281403],
+            "type": "Complex",
+            "overMax": 6,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Quilotoa",
+            "vei": 6,
+            "coordinates": [-0.8589183597401042, -78.90440949661286],
+            "type": "Caldera",
+            "overMax": 6,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Tyatya",
+            "vei": 4,
+            "coordinates": [44.35367471165394, 146.2512397905326],
+            "type": "Stratovolcano",
+            "overMax": 4,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Navado del Tolima",
+            "vei": 6,
+            "coordinates": [4.658430155416854, -75.33053800231973],
+            "type": "Stratovolcano",
+            "overMax": 6,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Garibaldi",
+            "vei": 3,
+            "coordinates": [49.84903908307853, -123.00036346633908],
+            "type": "",
+            "overMax": 3,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Edgecumbe",
+            "vei": 5,
+            "coordinates": [57.05239163044917, -135.75470594705362],
+            "type": "Stratovolcano",
+            "overMax": 5,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Khoid Naiman Nuur",
+            "vei": 1,
+            "coordinates": [46.646418133550256, 101.79704318471276],
+            "type": "Basaltic Cone",
+            "overMax": 2,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Lake Turkana North Island",
+            "vei": 2,
+            "coordinates": [4.063171118840862, 36.0442315564576],
+            "type": "Tuff Cone",
+            "overMax": 2,
+            "primaryEruptiveType": ""
+        },
+		{
+            "name": "Kostakan",
+            "vei": 3,
+            "coordinates": [53.833420607749034, 158.05181443623871],
+            "type": "Basaltic Cone",
+            "overMax": 3,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Licto",
+            "vei": 2,
+            "coordinates": [-1.7861269475925952, -78.61429933704541],
+            "type": "Basaltic Cone",
+            "overMax": 3,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Little Sitkin",
+            "vei": 1,
+            "coordinates": [51.950592227441284, 178.5414415827134],
+            "type": "Stratovolcano",
+            "overMax": 1,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Paulet Island",
+            "vei": 2,
+            "coordinates": [-63.57991110122418, -55.79064954840185],
+            "type": "Basaltic Cone",
+            "overMax": 3,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Resago",
+            "vei": 2,
+            "coordinates": [-36.46063001798045, -70.90341335678355],
+            "type": "Basaltic Cone",
+            "overMax": 2,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Tseax River Cone",
+            "vei": 1,
+            "coordinates": [55.110803723293834, -128.89904110926634],
+            "type": "Basaltic Cone",
+            "overMax": 2,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Shisheika",
+            "vei": 0,
+            "coordinates": [57.154609589351985, 161.08370315204635],
+            "type": "Lava Dome",
+            "overMax": 0,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Yonemaru-Sumiyoshiike",
+            "vei": 3,
+            "coordinates": [31.771409628603998, 130.59201311254628],
+            "type": "Maar",
+            "overMax": 3,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Vailulu'u",
+            "vei": 0,
+            "coordinates": [-14.21500549901496, -169.05810792147605],
+            "type": "Seamount",
+            "overMax": 0,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Villarica",
+            "vei": 5,
+            "coordinates": [-39.42006969530654, -71.93980078218783],
+            "type": "Stratovolcano",
+            "overMax": 5,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Ulawun",
+            "vei": 4,
+            "coordinates": [-5.050662123827964, 151.33126238014242],
+            "type": "Stratovolcano",
+            "overMax": 4,
+            "primaryEruptiveType": "Effusiv"
+        },
+		{
+            "name": "Aira Caldera",
+            "vei": 8,
+            "coordinates": [31.6551681368442, 130.70460709656626],
+            "type": "Caldera",
             "overMax": 8,
             "primaryEruptiveType": "Explosive"
         }
