@@ -2035,6 +2035,86 @@
             "type": "Caldera",
             "overMax": 7,
             "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Amukta",
+            "vei": 3,
+            "coordinates": [52.49651269151764, -171.25437593979677],
+            "type": "Stratovolcano",
+            "overMax": 3,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Adatarayama",
+            "vei": 3,
+            "coordinates": [37.62764799754409, 140.27747354483492],
+            "type": "Complex",
+            "overMax": 3,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Oshima-Oshima",
+            "vei": 4,
+            "coordinates": [41.51353729641373, 139.35281843058266],
+            "type": "Composite",
+            "overMax": 4,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Öræfajökull",
+            "vei": 5,
+            "coordinates": [63.998513682251584, -16.64842471456284],
+            "type": "Stratovolcano",
+            "overMax": 5,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Moua Pihaa",
+            "vei": 0,
+            "coordinates": [-18.3363855729492, -148.53551639662865],
+            "type": "Seamount",
+            "overMax": 0,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Pacaya",
+            "vei": 3,
+            "coordinates": [14.382595129191794, -90.60192774519342],
+            "type": "Stratovolcano",
+            "overMax": 3,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Mugogo",
+            "vei": 1,
+            "coordinates": [-1.368560563532431, 29.479914164695046],
+            "type": "Minor",
+            "overMax": 1,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Monowai Cone",
+            "vei": 1,
+            "coordinates": [-25.89435140420753, -177.19255821079776],
+            "type": "Seamount",
+            "overMax": 1,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Ofu-Olosega",
+            "vei": 2,
+            "coordinates": [-14.167408730485082, -169.61988396433352],
+            "type": "Composite",
+            "overMax": 2,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Pantelleria",
+            "vei": 1,
+            "coordinates": [36.77652434833969, 12.012208057300672],
+            "type": "Shield",
+            "overMax": 1,
+            "primaryEruptiveType": "Effusive"
         }
     ]
 }
