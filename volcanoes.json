@@ -2115,6 +2115,166 @@
             "type": "Shield",
             "overMax": 1,
             "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Vesuvius",
+            "vei": 5,
+            "coordinates": [40.821364167015155, 14.42597592683956],
+            "type": "Stratovolcano",
+            "overMax": 6,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Vestmanneyjar",
+            "vei": 4,
+            "coordinates": [63.4325297851141, -20.25024264108644],
+            "type": "Complex",
+            "overMax": 4,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Surtsey",
+            "vei": 3,
+            "coordinates": [63.30261289179327, -20.603107806101374],
+            "type": "Composite",
+            "overMax": 4,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Zuni-Bandera Volcanic Field",
+            "vei": 0,
+            "coordinates": [34.80647745363278, -108.00154570560566],
+            "type": "Volcanic Field",
+            "overMax": 1,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Sunset Craters Volcanic Field",
+            "vei": 4,
+            "coordinates": [35.36386186982717, -111.46319122660962],
+            "type": "Volcanic Field",
+            "overMax": 4,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Springdale Caldera",
+            "vei": 8,
+            "coordinates": [49.21065895239618, -56.602381566316495],
+            "type": "Caldera",
+            "overMax": 8,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Banua Wuhu",
+            "vei": 3,
+            "coordinates": [3.1462219723975102, 125.44214501689022],
+            "type": "Complex",
+            "overMax": 3,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Socorro",
+            "vei": 2,
+            "coordinates": [18.79321680495429, -110.97460180579668],
+            "type": "Shield",
+            "overMax": 2,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Hulalai",
+            "vei": 2,
+            "coordinates": [19.69089728084698, -155.867041734697],
+            "type": "Volcanic Field",
+            "overMax": 2,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Þeistareykir",
+            "vei": 0,
+            "coordinates": [65.86062980957693, -16.95159807088699],
+            "type": "Shield",
+            "overMax": 0,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Mauna Kea",
+            "vei": 2,
+            "coordinates": [19.824433316448815, -155.47156258583908],
+            "type": "Shield",
+            "overMax": 2,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Þórðarhyrna",
+            "vei": 4,
+            "coordinates": [64.27268801353434, -17.609203938705114],
+            "type": "Stratovolcano",
+            "overMax": 4,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Tromen Volcanic Plateau",
+            "vei": 3,
+            "coordinates": [-37.14105378066517, -70.04354555988301],
+            "type": "Complex",
+            "overMax": 3,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Payún Matrú Volcanic Field",
+            "vei": 0,
+            "coordinates": [-36.400555921351106, -69.4607706033385],
+            "type": "Volcanic Field",
+            "overMax": 1,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Payún Matrú Caldera",
+            "vei": 6,
+            "coordinates": [-36.41169630719367, -69.20426278059519],
+            "type": "Caldera",
+            "overMax": 6,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Diamante",
+            "vei": 7,
+            "coordinates": [-34.635373284411735, -69.08827706409598],
+            "type": "Complex",
+            "overMax": 7,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Harrat Lunayyir",
+            "vei": 4,
+            "coordinates": [25.144883736375338, 37.85474369407659],
+            "type": "Volcanic Field",
+            "overMax": 4,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Alid",
+            "vei": 5,
+            "coordinates": [14.481389234014562, 39.91059990892375],
+            "type": "Complex",
+            "overMax": 5,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Tuhua",
+            "vei": 5,
+            "coordinates": [-37.28549163448974, 176.25338004389786],
+            "type": "Shield",
+            "overMax": 5,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Messum Crater",
+            "vei": 8,
+            "coordinates": [-21.413385151266308, 14.209772173501229],
+            "type": "Caldera",
+            "overMax": 8,
+            "primaryEruptiveType": ""
         }
     ]
 }
