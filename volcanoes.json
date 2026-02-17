@@ -1605,12 +1605,12 @@
             "primaryEruptiveType": "Effusive"
         },
 		{
-            "name": "",
-            "vei": ,
-            "coordinates": [],
-            "type": "",
-            "overMax": ,
-            "primaryEruptiveType": ""
+            "name": "Raoul Island",
+            "vei": 6,
+            "coordinates": [-29.26397754604713, -177.92373564174926],
+            "type": "Complex",
+            "overMax": 6,
+            "primaryEruptiveType": "Explosive"
         },
 		{
             "name": "Chalupas",
