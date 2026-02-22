@@ -774,7 +774,7 @@
         },
         {
             "name": "Changbaishan",
-            "vei": 7,
+            "vei": 6,
             "coordinates": [42.00594319738998, 128.06036008283894],
             "type": "Caldera",
             "overMax": 7,
@@ -2274,7 +2274,87 @@
             "coordinates": [-21.413385151266308, 14.209772173501229],
             "type": "Caldera",
             "overMax": 8,
-            "primaryEruptiveType": ""
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Etna",
+            "vei": 6,
+            "coordinates": [37.75505930613792, 14.996775166819681],
+            "type": "Stratovolcano",
+            "overMax": 6,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Misti",
+            "vei": 5,
+            "coordinates": [-16.298529889384398, -71.40589195453357],
+            "type": "Stratovolcano",
+            "overMax": 5,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Ritter Island",
+            "vei": 3,
+            "coordinates": [-5.52170481922909, 148.11176350991386],
+            "type": "Composite",
+            "overMax": 3,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Long Island",
+            "vei": 6,
+            "coordinates": [-5.337414161247534, 147.11702320737535],
+            "type": "Caldera",
+            "overMax": 6,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Agung",
+            "vei": 5,
+            "coordinates": [-8.343267805792518, 115.50718617345079],
+            "type": "Stratovolcano",
+            "overMax": 5,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Raung",
+            "vei": 5,
+            "coordinates": [-8.11805469511555, 114.05753421901619],
+            "type": "Stratovolcano",
+            "overMax": 6,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Lanzarote",
+            "vei": 3,
+            "coordinates": [29.038736603472124, -13.635654755422927],
+            "type": "Volcanic Field",
+            "overMax": 3,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Antillanca Volcanic Complex",
+            "vei": 5,
+            "coordinates": [-40.77717407438329, -72.15593263923411],
+            "type": "Complex",
+            "overMax": 5,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Soufreire St. Vincent",
+            "vei": 4,
+            "coordinates": [13.334006037165162, -61.18136948480887],
+            "type": "Stratovolcano",
+            "overMax": 4,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Oddnýjarhnjúkur-Langjökull",
+            "vei": 2,
+            "coordinates": [64.84975386687461, -19.701683386026478],
+            "type": "Volcanic Field",
+            "overMax": 2,
+            "primaryEruptiveType": "Effusive"
         }
     ]
 }
