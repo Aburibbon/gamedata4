@@ -2355,6 +2355,46 @@
             "type": "Volcanic Field",
             "overMax": 2,
             "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Alu-Dalafilla",
+            "vei": 3,
+            "coordinates": [13.792437335479487, 40.55348279307301],
+            "type": "Stratovolcano",
+            "overMax": 3,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Alney-Chashakondzha",
+            "vei": 3,
+            "coordinates": [56.682026164487404, 159.62399447709203],
+            "type": "Complex",
+            "overMax": 3,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Ulleungdo",
+            "vei": 6,
+            "coordinates": [37.50479011421788, 130.86240409613998],
+            "type": "Complex",
+            "overMax": 6,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Tafu-Maka",
+            "vei": 0,
+            "coordinates": [-15.370018003633701, -174.22991585399856],
+            "type": "Seamount",
+            "overMax": 0,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Sollipulli",
+            "vei": 5,
+            "coordinates": [-38.97501941675651, -71.52229327263825],
+            "type": "Caldera",
+            "overMax": 6,
+            "primaryEruptiveType": "Explosive"
         }
     ]
 }
