@@ -2395,6 +2395,46 @@
             "type": "Caldera",
             "overMax": 6,
             "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Hokkaido Koma-ga-take",
+            "vei": 5,
+            "coordinates": [42.06336649974476, 140.67725338812477],
+            "type": "Stratovolcano",
+            "overMax": 5,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Jabal Haylan",
+            "vei": 0,
+            "coordinates": [15.401027378755819, 45.06653339862268],
+            "type": "Volcanic Field",
+            "overMax": 0,
+            "primaryEruptiveType": ""
+        },
+		{
+            "name": "Birenti Cone",
+            "vei": 1,
+            "coordinates": [8.788029391423912, 39.700621856270935],
+            "type": "Minor",
+            "overMax": 1,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Boset-Bericha Volcanic Complex",
+            "vei": 6,
+            "coordinates": [8.564028568164556, 39.46769459088267],
+            "type": "Complex",
+            "overMax": 6,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Ksudach",
+            "vei": 6,
+            "coordinates": [51.8049556789809, 157.53121137334887],
+            "type": "Caldera",
+            "overMax": 6,
+            "primaryEruptiveType": "Explosive"
         }
     ]
 }
