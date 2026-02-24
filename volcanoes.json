@@ -1374,11 +1374,11 @@
         },
 		{
             "name": "Don Joao de Castro Bank",
-            "vei": 2,
+            "vei": 3,
             "coordinates": [38.22999863921527, -26.62999008730377],
             "type": "Seamount",
-            "overMax": 2,
-            "primaryEruptiveType": "Effusive"
+            "overMax": 3,
+            "primaryEruptiveType": "Explosive"
         },
 		{
             "name": "Cerberean Caldera",
@@ -2410,7 +2410,7 @@
             "coordinates": [15.401027378755819, 45.06653339862268],
             "type": "Volcanic Field",
             "overMax": 0,
-            "primaryEruptiveType": ""
+            "primaryEruptiveType": "Effusive"
         },
 		{
             "name": "Birenti Cone",
@@ -2434,6 +2434,86 @@
             "coordinates": [51.8049556789809, 157.53121137334887],
             "type": "Caldera",
             "overMax": 6,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Eyjafjallajökull",
+            "vei": 4,
+            "coordinates": [63.62891555913522, -19.6242428118623],
+            "type": "Stratovolcano",
+            "overMax": 4,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Fagradalsfjall",
+            "vei": 0,
+            "coordinates": [63.8951105402281, -22.25840342627007],
+            "type": "Volcanic Field",
+            "overMax": 0,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Emuruangogolak",
+            "vei": 0,
+            "coordinates": [1.4968017895792827, 36.338722387915624],
+            "type": "Shield",
+            "overMax": 0,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Erta Ale",
+            "vei": 2,
+            "coordinates": [13.603146158367048, 40.66348262683579],
+            "type": "Shield",
+            "overMax": 2,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Dieng Volcanic Complex",
+            "vei": 5,
+            "coordinates": [-7.209115393729613, 109.89388886087677],
+            "type": "Complex",
+            "overMax": 6,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Gemini-Oscostar Submarine Volcanic Field",
+            "vei": 1,
+            "coordinates": [-21.019846116469207, 170.12523848102407],
+            "type": "Volcanic Field",
+            "overMax": 1,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Home Reef",
+            "vei": 3,
+            "coordinates": [-18.99025350561023, -174.76657882735643],
+            "type": "Stratovolcano",
+            "overMax": 3,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Hudson Mountains",
+            "vei": 4,
+            "coordinates": [-74.39573926436742, -99.17510575420425],
+            "type": "Volcanic Field",
+            "overMax": 4,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Irazú",
+            "vei": 3,
+            "coordinates": [9.982789402825546, -83.85080421599154],
+            "type": "Stratovolcano",
+            "overMax": 3,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Lassen Volcanic Center",
+            "vei": 3,
+            "coordinates": [40.48951716149936, -121.50737741282988],
+            "type": "Stratovolcano",
+            "overMax": 3,
             "primaryEruptiveType": "Explosive"
         }
     ]
