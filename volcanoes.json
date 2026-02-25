@@ -522,7 +522,7 @@
             "coordinates": [56.79786365409708, -5.006390281866779],
             "type": "Stratovolcano",
             "overMax": 6,
-            "primaryEruptiveType": ""
+            "primaryEruptiveType": "Explosive"
         },
         {
             "name": "Nahe Caldera",
@@ -2514,6 +2514,206 @@
             "coordinates": [40.48951716149936, -121.50737741282988],
             "type": "Stratovolcano",
             "overMax": 3,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "San Cristóbal",
+            "vei": 3,
+            "coordinates": [12.70350464719933, -87.00272147613433],
+            "type": "Stratovolcano",
+            "overMax": 3,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Bristol Island",
+            "vei": 3,
+            "coordinates": [-59.040789099056205, -26.534777971123116],
+            "type": "Stratovolcano",
+            "overMax": 3,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Saunders",
+            "vei": 2,
+            "coordinates": [-57.800375746283095, -26.487561483790454],
+            "type": "Stratovolcano",
+            "overMax": 2,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Montagu Island",
+            "vei": 1,
+            "coordinates": [-58.43484633753849, -26.381169859098875],
+            "type": "Stratovolcano",
+            "overMax": 1,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Seguam",
+            "vei": 5,
+            "coordinates": [52.314129470608556, -172.51295658460674],
+            "type": "Stratovolcano",
+            "overMax": 5,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Semisopochnoi",
+            "vei": 6,
+            "coordinates": [51.92710034398547, 179.5912620654908],
+            "type": "Stratovolcano",
+            "overMax": 6,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Harra es- Sawad",
+            "vei": 3,
+            "coordinates": [13.58017354466969, 45.98544274735783],
+            "type": "Volcanic Field",
+            "overMax": 3,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Simbo",
+            "vei": 1,
+            "coordinates": [-8.287755807567002, 156.52791401106612],
+            "type": "Stratovolcano",
+            "overMax": 1,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Tandikat-Singgalang",
+            "vei": 1,
+            "coordinates": [-0.4311858278117477, 100.31923218188622],
+            "type": "Stratovolcano",
+            "overMax": 1,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Calabozos Caldera",
+            "vei": 7,
+            "coordinates": [-35.550983645414284, -70.50040739828144],
+            "type": "Caldera",
+            "overMax": 7,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Flowers River Caldera Complex",
+            "vei": 7,
+            "coordinates": [55.678940102832954, -61.35916054907442],
+            "type": "Caldera Complex",
+            "overMax": 7,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Blake River Megacaldera Complex",
+            "vei": 8,
+            "coordinates": [48.290518015097014, -79.31853295972658],
+            "type": "Caldera Complex",
+            "overMax": 8,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Rumble III",
+            "vei": 0,
+            "coordinates": [-35.73681974240576, 178.4773498849531],
+            "type": "Seamount",
+            "overMax": 0,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Ruby",
+            "vei": 1,
+            "coordinates": [15.604605277217196, 145.57236635006407],
+            "type": "Seamount",
+            "overMax": 1,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Purace",
+            "vei": 3,
+            "coordinates": [2.3134131219430194, -76.39510760055403],
+            "type": "Stratovolcano",
+            "overMax": 3,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Puntiagudo-Cordón Cenizos",
+            "vei": 1,
+            "coordinates": [-40.97487154442784, -72.26569467419328],
+            "type": "Stratovolcano",
+            "overMax": 1,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Marion Island",
+            "vei": 1,
+            "coordinates": [-46.901369085238066, 37.72178522380866],
+            "type": "Volcanic Field",
+            "overMax": 1,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "McBride Volcanic Province",
+            "vei": 0,
+            "coordinates": [-18.392879050852716, 144.4517559731631],
+            "type": "Volcanic Field",
+            "overMax": 0,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Ciremai",
+            "vei": 3,
+            "coordinates": [-6.895118656279253, 108.40815620897907],
+            "type": "Stratovolcano",
+            "overMax": 3,
+            "primaryEruptiveType": "Explosive"
+        },
+		{
+            "name": "Kolbeinsey Ridge",
+            "vei": 2,
+            "coordinates": [66.67035658359134, -18.500985242778096],
+            "type": "Complex",
+            "overMax": 2,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Lopevi",
+            "vei": 3,
+            "coordinates": [-16.507925780259352, 168.34321049826843],
+            "type": "Stratovolcano",
+            "overMax": 3,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Mutnovsky",
+            "vei": 3,
+            "coordinates": [52.45977665509228, 158.17763400166277],
+            "type": "Stratovolcano",
+            "overMax": 3,
+            "primaryEruptiveType": "Effusive"
+        },
+		{
+            "name": "Mono-Inyo Craters",
+            "vei": 3,
+            "coordinates": [37.81337498291111, -119.03032448252904],
+            "type": "",
+            "overMax": 3,
+            "primaryEruptiveType": ""
+        },
+		{
+            "name": "Nightingale Island",
+            "vei": 0,
+            "coordinates": [-37.423634125774754, -12.481890762528591],
+            "type": "Stratovolcano",
+            "overMax": 0,
+            "primaryEruptiveType": ""
+        },
+		{
+            "name": "Ngozi",
+            "vei": 5,
+            "coordinates": [-9.007152066413617, 33.55197146786725],
+            "type": "Caldera",
+            "overMax": 5,
             "primaryEruptiveType": "Explosive"
         }
     ]
