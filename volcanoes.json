@@ -754,7 +754,7 @@
             "coordinates": [-52.32497019185723, -73.37996404515982],
             "type": "Stratovolcano",
             "overMax": 5,
-            "primaryEruptiveType": ""
+            "primaryEruptiveType": "Explosive"
         },
         {
             "name": "Chichinautzin",
@@ -999,7 +999,7 @@
 		{
             "name": "Fernandina",
             "vei": 4,
-            "coordinates": [],
+            "coordinates": [-0.37240710258892196, -91.5427672246844],
             "type": "Shield",
             "overMax": 5,
             "primaryEruptiveType": "Effusive"
@@ -1045,10 +1045,10 @@
             "primaryEruptiveType": "Effusive"
         },
 		{
-            "name": "Emory Caldera",
+            "name": "Mogollon-Datil Volcanic Field",
             "vei": 8,
-            "coordinates": [],
-            "type": "Caldera",
+            "coordinates": [33.499963287519705, -107.99995714839467],
+            "type": "Caldera Complex",
             "overMax": 8,
             "primaryEruptiveType": "Explosive"
         },
@@ -1064,7 +1064,7 @@
             "name": "Fueguino",
             "vei": 2,
             "coordinates": [-54.97014777432786, -70.26100758512631],
-            "type": "",
+            "type": "Minor",
             "overMax": 2,
             "primaryEruptiveType": "Effusive"
         },
@@ -1264,7 +1264,7 @@
             "name": "Mauna Ulu",
             "vei": 1,
             "coordinates": [19.367244722178192, -155.2016011580266],
-            "type": "",
+            "type": "Minor",
             "overMax": 1,
             "primaryEruptiveType": "Effusive"
         },
@@ -1615,7 +1615,7 @@
 		{
             "name": "Chalupas",
             "vei": 6,
-            "coordinates": [],
+            "coordinates": [-0.8398231332542476, -78.33672794118398],
             "type": "Caldera",
             "overMax": 6,
             "primaryEruptiveType": "Explosive"
@@ -1672,7 +1672,7 @@
             "name": "Garibaldi",
             "vei": 3,
             "coordinates": [49.84903908307853, -123.00036346633908],
-            "type": "",
+            "type": "Complex",
             "overMax": 3,
             "primaryEruptiveType": "Effusive"
         },
@@ -1698,7 +1698,7 @@
             "coordinates": [4.063171118840862, 36.0442315564576],
             "type": "Minor",
             "overMax": 2,
-            "primaryEruptiveType": ""
+            "primaryEruptiveType": "Minor"
         },
 		{
             "name": "Kostakan",
@@ -1816,7 +1816,7 @@
             "name": "Nemo Peak",
             "vei": 7,
             "coordinates": [49.5643433529137, 154.813366227704],
-            "type": "",
+            "type": "Caldera",
             "overMax": 7,
             "primaryEruptiveType": "Effusive"
         },
@@ -1970,7 +1970,7 @@
             "coordinates": [-42.38123632182523, -72.58256654968045],
             "type": "Minor",
             "overMax": 3,
-            "primaryEruptiveType": ""
+            "primaryEruptiveType": "Effusive"
         },
 		{
             "name": "Hornopiren",
@@ -2696,9 +2696,9 @@
             "name": "Mono-Inyo Craters",
             "vei": 3,
             "coordinates": [37.81337498291111, -119.03032448252904],
-            "type": "",
+            "type": "Volcanic Field",
             "overMax": 3,
-            "primaryEruptiveType": ""
+            "primaryEruptiveType": "Effusive"
         },
 		{
             "name": "Nightingale Island",
@@ -2706,7 +2706,7 @@
             "coordinates": [-37.423634125774754, -12.481890762528591],
             "type": "Stratovolcano",
             "overMax": 0,
-            "primaryEruptiveType": ""
+            "primaryEruptiveType": "Effusive"
         },
 		{
             "name": "Ngozi",
